@@ -1,0 +1,11 @@
+{
+  "id": "prompt-mixer-open-ai-webscraper-connector",
+  "name": "Open AI Web Scraper Connector",
+  "version": "1.0.6",
+  "minAppVersion": "0.1.0",
+  "description": "OpenAI Connector allows you to leverage the power of advanced AI models provided by OpenAI, such as GPT, to parse content from webpages using a URL provided in the prompt. This connector enables you to extract and analyze text, images, and other data from web sources, empowering you to incorporate the insights and knowledge gained from these sources into your conversational responses or other applications. With the OpenAI Connector, you can seamlessly integrate the capabilities of OpenAI's language models into your workflows, enabling more comprehensive and informed interactions.",
+  "author": "Prompt Mixer",
+  "authorUrl": "https://promptmixer.dev",
+  "fundingUrl": "https://promptmixer.dev/pricing",
+  "isDesktopOnly": false
+}
