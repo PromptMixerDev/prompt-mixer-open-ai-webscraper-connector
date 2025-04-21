@@ -22,7 +22,7 @@
     "cheerio": "^1.0.0",
     "esbuild": "^0.25.2",
     "fs": "^0.0.1-security",
-    "openai": "^4.92.1"
+    "openai": "^4.95.1"
   },
   "devDependencies": {
     "esbuild-plugin-alias": "^0.2.1",
