@@ -20,7 +20,7 @@
     "@types/cheerio": "^0.22.35",
     "builtin-modules": "^5.0.0",
     "cheerio": "^1.1.0",
-    "esbuild": "^0.25.6",
+    "esbuild": "^0.25.8",
     "fs": "^0.0.1-security",
     "openai": "^5.9.0"
   },
