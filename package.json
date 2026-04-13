@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/cheerio": "^1.0.0",
-    "builtin-modules": "^5.0.0",
+    "builtin-modules": "^5.1.0",
     "cheerio": "^1.2.0",
     "esbuild": "^0.27.4",
     "fs": "^0.0.1-security",
